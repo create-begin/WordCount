@@ -15,6 +15,7 @@ int main()
 		else cnt_2++;//记录字符数
 	}
 	cout << "单词数为：" << cnt_1 << endl;
+
 	cout << "字符数为：" << cnt_2 << endl;
 	input.close();//关闭文件
     return 0;
